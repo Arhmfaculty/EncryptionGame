@@ -1,2 +1,4 @@
 # my-first-repository
-Alx tutorials
+It's interesting to start learning git. I'm happy.
+
+
